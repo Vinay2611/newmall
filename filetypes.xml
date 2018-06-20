@@ -6,6 +6,7 @@
       <mapping pattern="My_Class" type="PHP" />
       <mapping pattern="demo" type="PHP" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
