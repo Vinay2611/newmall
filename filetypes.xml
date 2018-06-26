@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="availableoutletlist" type="PHP" />
-      <mapping pattern="index" type="PHP" />
-      <mapping pattern="My_Class" type="PHP" />
       <mapping pattern="demo" type="PHP" />
+      <mapping pattern="availableoutletlist" type="PHP" />
+      <mapping pattern="My_Class" type="PHP" />
+      <mapping pattern="index" type="PHP" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
-      <mapping ext="ctp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
