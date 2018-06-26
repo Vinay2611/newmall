@@ -5,7 +5,6 @@
       <mapping pattern="availableoutletlist" type="PHP" />
       <mapping pattern="My_Class" type="PHP" />
       <mapping pattern="index" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
       <mapping pattern="AdminController.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
     </extensionMap>
