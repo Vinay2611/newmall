@@ -7,6 +7,7 @@
       <mapping pattern="index" type="PHP" />
       <mapping pattern="AdminController.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess1" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
